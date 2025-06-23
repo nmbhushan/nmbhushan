@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagmani Bhushan</h1>
-<h3 align="center">Lead Architect | UI/UX Expert | AWS & SAP BTP Specialist | Gen AI Explorer</h3>
+<h3 align="center">Principal Frontend & AI Interface Architect (11+ years) | AWS & SAP BTP Specialist</h3>
 
 <p align="center">
   <a href="mailto:nagmanibhushan3@gmail.com"><img src="https://img.shields.io/badge/Email-nagmanibhushan3@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
