@@ -1,88 +1,100 @@
 <h1 align="center">Hi 👋, I'm Nagmani Bhushan</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Problem Solver</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center">Lead Architect | UI/UX Expert | AWS & SAP BTP Specialist | Gen AI Explorer</h3>
 
-- 🔭 I’m currently working on **modern web apps, backend systems, and mobile applications**.
-- 🌱 I’m exploring **DevOps practices**, **cloud deployments**, and **AI-powered integrations**.
-- 💬 Ask me about **React, Node.js, DevOps, Firebase, Flutter, or CI/CD**.
-- 👯 I’m open to collaborating on **scalable products**, **SaaS tools**, and **impact-driven tech**.
-- 📫 Reach me at: **nagmanibhushan3@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nagmanibhushan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://twitter.com/nagmani_b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://instagram.com/nagmani.dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
-  <a href="mailto:nagmanibhushan3@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40"/></a>
+<p align="center">
+  <a href="mailto:nagmanibhushan3@gmail.com"><img src="https://img.shields.io/badge/Email-nagmanibhushan3@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nagmanibhushan"><img src="https://img.shields.io/badge/LinkedIn-nagmanibhushan-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://nagmanibhushan.com/"><img src="https://img.shields.io/badge/Portfolio-nagmanibhushan.com-orange?style=for-the-badge&logo=firefox" /></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</p>
+I’m a Solution Architect and Frontend Engineering Leader with 10+ years of experience building scalable, enterprise-grade web and mobile applications. I specialize in crafting intuitive user interfaces using React, Next.js, and React Native, while architecting cloud-native solutions on AWS and SAP BTP. 
+
+I thrive at the intersection of technology, innovation, and leadership — delivering digital products that solve real business problems.
 
 ---
 
-## 🧠 Notable Projects
+## 🧠 Tech Expertise
 
-### 🔹 **eNursing Portal**
-A comprehensive online exam preparation platform for nurses aiming to work in Dubai, Saudi Arabia, and the Gulf. Includes user management, dynamic test creation, results tracking, and analytics.
+### 🧩 Core Stack
+- **Frontend**: React.js, Next.js, React Native, JavaScript, Backbone.js
+- **Backend**: Node.js, Flask, Django, REST APIs
+- **Cloud & Architecture**: AWS (S3, EC2, Lambda), SAP BTP, SAP C4C, Oracle Siebel CRM
+- **Database**: MySQL, PostgreSQL
+- **DevOps & Infra**: Docker, CI/CD, Scrum, Agile
 
-### 🔹 **PlayCMS (V4-Lab)**
-A robust CMS system for managing digital content across various platforms with version control, GitLab integrations, and deployment automation.
+### 🧠 AI & Innovation
+- Gen AI Integration (Prompt Engineering, LLM integration)
+- Machine Learning foundations
 
-### 🔹 **React Native App Suite**
-Built cross-platform apps using a shared codebase to serve Android & iOS. Focused on performance, offline capability, and user experience.
-
-### 🔹 **App Transfer Automation**
-Developed a CLI tool and documentation for safe transfer of apps between Google Play accounts with consistent package management and testing strategies.
+### 🧰 Tools & Practices
+- Git, Jira, Figma, Eclipse, Postman, Tomcat
+- UI/UX Design, Code Reviews, Technical Architecture, Microservices
 
 ---
 
 ## 💼 Professional Experience
 
-- **Software Developer Intern** @ V4-Lab
-  - Built scalable web solutions and improved CI/CD pipelines.
-  - Collaborated on React Native apps with unified codebases.
+### 🚀 Lead – Technology & Innovation @ Exalogic Consulting *(Dubai / Bengaluru, 7+ years)*
+**Notable Deliveries**:
+- **Realcube Owner Association Platform** – Enterprise property management suite for Aqaar & ICT, integrated with Microsoft Dynamics and Oracle Siebel.
+- **eNursing** – LMS SaaS solution for healthcare learning.
+- **BLR Living** – Co-living property SaaS app from scratch, managing roadmap, scrum, architecture, and execution.
+- **eDental, Ecadamia** – Subscription-based LMS products for web.
 
-- **Freelance Web Projects**
-  - Delivered multiple websites for local businesses using modern stacks like React, Tailwind, and Firebase.
+### 🔍 Technical Analyst
+- Architected and developed real estate management, learning, and HR solutions with end-to-end involvement — from wireframes to deployment.
+
+### 💻 Senior Software Engineer
+- Contributed to MyGubbi (interior design + furniture e-comm) and MyVilla (property CRM) products.
+- Built UI components, single-page SEO landing pages, and affiliate/marketing modules.
+
+### 🧠 Earlier Roles
+- Developed IoT solutions like StayIN Smart (Nichi-In), CASEM Legal Suite.
+- Contributed to Pebble Smartwatch UI and social networking projects (Xithi).
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🏅 **Hack2Build Finalist** – SAP Innovation Hackathon
+- 📜 Certified in SQL, React + Redux, HTML Fundamentals
+- 📘 JavaScript Proficiency & Web Architecture Expertise
 
 ---
 
 ## 🎓 Education
 
-**Bachelor's Degree in Computer Applications**  
-Your University Name | YYYY – YYYY
+- 🎓 **B.Tech in Information Technology**, Punjab Technical University (2009–2013)
+- 🧮 Intermediate (Maths), Munshi Singh College
+- 🏫 Matriculation, Nand High School Sugauli
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagmani-bhushan&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagmanibhushan&show_icons=true&locale=en" alt="Nagmani's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagmanibhushan&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagmanibhushan" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nagmani-bhushan&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagmani-bhushan&" alt="GitHub Streak"/>
-</p>
+## 📫 Let's Connect
+
+Whether you’re building AI-native products, migrating to the cloud, or designing scalable SaaS applications — I’m excited to collaborate and create impact.
+
+📩 **Email**: [nagmanibhushan3@gmail.com](mailto:nagmanibhushan3@gmail.com)  
+🌐 **Website**: [nagmanibhushan.com](https://nagmanibhushan.com)  
+🔗 **LinkedIn**: [linkedin.com/in/nagmanibhushan](https://www.linkedin.com/in/nagmanibhushan)
+
+---
+
+_“Innovation is not just building new tools — it’s solving the right problems in new ways.”_
+
